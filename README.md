@@ -8,6 +8,7 @@ Hexo plugin that renames post files based on title
 ## Usage
 
     $ hexo rename
+
     source/_posts/abc.md -> source/_posts/xyz.md
 
 ## License
