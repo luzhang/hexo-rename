@@ -1,0 +1,14 @@
+{
+    "name": "hexo-rename",
+    "version": "0.0.1",
+    "description": "Hexo plugin that renames post files based on title",
+    "main": "index.js",
+    "author": "Lu Zhang <lu.zhang.ame@gmail.com>",
+    "repository": "https://github.com/luzhang/hexo-rename",
+    "license": "MIT",
+    "preferGlobal": true,
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {}
+  }
